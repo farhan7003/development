@@ -8,6 +8,8 @@ public class RetriveDateFromListApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RetriveDateFromListApplication.class, args);
+		System.out.println("Its A git Try");
+		System.out.println("I am Another Try For Git");
 	}
 
 }
