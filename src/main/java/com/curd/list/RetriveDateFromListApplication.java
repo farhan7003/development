@@ -14,6 +14,8 @@ public class RetriveDateFromListApplication {
 		System.out.println("farhan");
 		System.out.println("eknath");
 		System.out.println("Delhi");
+		System.out.println("Delhi");
+		System.out.println("Kolkata");
 
 
 		
