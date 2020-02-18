@@ -8,7 +8,7 @@ public class RetriveDateFromListApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RetriveDateFromListApplication.class, args);
-		System.out.println("Its A git Try");
+		System.out.println("Its A git Try from me");
 		System.out.println("I am Another Try For Git");
 		
 		System.out.println("farhan");
@@ -17,7 +17,8 @@ public class RetriveDateFromListApplication {
 		System.out.println("Delhi");
 		System.out.println("candoor");
 		System.out.println("Technopolish");
-		System.out.println("patna");
+		System.out.println("kolkata");
+
 
 		
 	}
